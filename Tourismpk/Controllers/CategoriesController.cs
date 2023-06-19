@@ -7,7 +7,7 @@ using System.Net;
 using System.Web;
 using System.Web.Mvc;
 using Tourismpk.Models;
-
+//all good
 namespace Tourismpk.Controllers
 {
     public class CategoriesController : Controller
